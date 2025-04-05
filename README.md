@@ -19,4 +19,4 @@ This is a simple guide for beginners learning Linux commands. Whether you are ju
 ## 📥 Download
 To download the command list:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Linux-Command-Basics.git
+git clone https://github.com/TheTechProPrincess/Linux-Command-Basics.git
