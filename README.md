@@ -1,4 +1,3 @@
-# Linux-Command-Basics
 # Linux Command Line Basics
 
 This is a simple guide for beginners learning Linux commands. Whether you are just starting out or need a quick reference, this cheat sheet has got you covered!  
